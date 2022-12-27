@@ -37,38 +37,47 @@ Backend : [Server](https://github.com/Aviroop-001/ChatApp-server).
 ## APP DEMO
 #### <div align="left">_[Live App](https://radius-seven.vercel.app/)_</div>
 
+#### LANDING PAGE
+![Landing Page demo](https://github.com/Aviroop-001/Radius/blob/main/landing.gif)
+
 #### LOGIN
-![Login demo](https://github.com/Aviroop-001/Blogetra/blob/main/Blogetra_login.gif)
+![Login demo](https://github.com/Aviroop-001/Radius/blob/main/login.gif)
 
 #### REGISTER
-![Registation demo](https://github.com/Aviroop-001/Blogetra/blob/main/Blogetra_register.gif)
+![Registation demo](https://github.com/Aviroop-001/Radius/blob/main/register.gif)
+
+#### LOGIN-ERROR
+![Login Error demo](https://github.com/Aviroop-001/Radius/blob/main/loginError.gif)
 
 #### HOMEPAGE
-![Homepage demo](https://github.com/Aviroop-001/Blogetra/blob/main/Blogetra_homepage.gif)
+![Homepage demo](https://github.com/Aviroop-001/Radius/blob/main/homepage.gif)
 
-#### ABOUT PAGE
-![About page demo](https://github.com/Aviroop-001/Blogetra/blob/main/Blogetra_about.gif)
+#### PROFILE PAGE
+![Profile demo](https://github.com/Aviroop-001/Radius/blob/main/profile.gif)
 
-#### FILTER POSTS FUNCTIONALITY
-![Post Filter demo](https://github.com/Aviroop-001/Blogetra/blob/main/Blogetra_filter_posts.gif)
+#### ALL CHATS
+![All Chats demo](https://github.com/Aviroop-001/Radius/blob/main/allChats.gif)
 
-#### SINGLE POST
-![A post demo](https://github.com/Aviroop-001/Blogetra/blob/main/Blogetra_single_post.gif)
+#### SINGLE CHAT
+![A Chat demo](https://github.com/Aviroop-001/Radius/blob/main/singleChat.gif)
 
-#### POSTS BY AUTHOR
-![More Posts by author demo](https://github.com/Aviroop-001/Blogetra/blob/main/Blogetra_author_posts.gif)
+#### RESPONSIVE DESIGN
+![Responsive Design demo](https://github.com/Aviroop-001/Radius/blob/main/responsive.gif)
 
-#### COMPOSE NEW POST
-![New Post Compose demo](https://github.com/Aviroop-001/Blogetra/blob/main/Blogetra_compose.gif)
+#### LIVE MESSAGE FEATURE
+![New message demo](https://github.com/Aviroop-001/Radius/blob/main/liveMessage.gif)
 
-#### UPDATE USER DETAILS
-![User credentials update demo](https://github.com/Aviroop-001/Blogetra/blob/main/Blogetra_user_update.gif)
+#### NOTIFICATION SYSTEM
+![Message notification demo](https://github.com/Aviroop-001/Radius/blob/main/notification.gif)
 
-#### DELETE USER
-![User delete demo](https://github.com/Aviroop-001/Blogetra/blob/main/Blogetra_user_delete.gif)
+#### CONNECT TO NEW USER
+![new Connection demo](https://github.com/Aviroop-001/Radius/blob/main/newConnection.gif)
+
+#### DELETE CHAT
+![Chat delete demo](https://github.com/Aviroop-001/Radius/blob/main/deleteChat.gif)
 
 #### LOGOUT
-![Logout demo](https://github.com/Aviroop-001/Blogetra/blob/main/Blogetra_logout.gif)
+![Logout demo](https://github.com/Aviroop-001/Radius/blob/main/logout.gif)
 
 
 Any suggestions are welcome. Have a nice day :)
